@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# AppImage
+AppDir/
+*.AppImage
+
+# OS / editor
+.vscode/
+.DS_Store
